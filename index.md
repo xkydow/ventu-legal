@@ -1,7 +1,7 @@
 ---
-title: Ventu
+title: Dipp
 ---
-# Ventu
+# Dipp
 
 - [Privacy Policy](./privacy)
 - [Terms of Service](./terms)

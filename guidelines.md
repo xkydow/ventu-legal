@@ -3,9 +3,9 @@ title: Community Guidelines
 permalink: /guidelines
 ---
 
-# Ventu Community Guidelines
+# Dipp Community Guidelines
 
-Ventu is for adults who want to meet in person. These rules keep it safe and respectful, and they apply both in the app and on your dates. Breaking them, on or off Ventu, can get your content removed or your account suspended or banned, and we may report serious cases to the police.
+Dipp is for adults who want to meet in person. These rules keep it safe and respectful, and they apply both in the app and on your dates. Breaking them, on or off Dipp, can get your content removed or your account suspended or banned, and we may report serious cases to the police.
 
 ## Be yourself
 - Use your real first name and your real age.
@@ -27,10 +27,10 @@ Ventu is for adults who want to meet in person. These rules keep it safe and res
 - Don't share someone else's private information or screenshots of their messages without permission.
 
 ## Show up
-Ventu is about real dates. If you confirm a date, go, or cancel with as much notice as you can.
+Dipp is about real dates. If you confirm a date, go, or cancel with as much notice as you can.
 
 ## Meet safely
-- Meet in a public place. Ventu suggests places for that reason.
+- Meet in a public place. Dipp suggests places for that reason.
 - Tell a friend where you're going and who you're meeting.
 - Arrange your own ride and stay in control of your drink.
 - If something feels wrong, leave. **If you are in danger, call 911.**
@@ -40,4 +40,4 @@ If someone breaks these rules or makes you feel unsafe, report them from their p
 
 Contact: xkydow@icloud.com
 
-[← Ventu](./)
+[← Dipp](./)
