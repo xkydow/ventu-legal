@@ -6,3 +6,4 @@ title: Dipp
 - [Privacy Policy](./privacy)
 - [Terms of Service](./terms)
 - [Community Guidelines](./guidelines)
+- [Support](./support)
